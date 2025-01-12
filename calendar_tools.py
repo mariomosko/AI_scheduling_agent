@@ -114,7 +114,7 @@ def delete_event(event_id: str) -> dict:
 
 
 
-def send_invite_email(to_email: str, calendly_link='https://calendly.com/mario-mosko') -> dict:
+def send_invite_email(to_email: str, calendly_link='https://calendly.com/your-calendly') -> dict:
     """Send a personalized email using SendGrid.
     :param to_email: The email address to send the invite to
     :param calendly_link: The Calendly link to include in the email
