@@ -64,16 +64,16 @@ An AI scheduling agent using OpenAI Swarm that schedules meetings and can also s
 
 ## Example Videos
 
-1. Example Video 1
+## Example Videos
+
+1. [Example Video 1](example_videos/video_nr1.mp4)
     <video width="320" height="240" controls>
       <source src="example_videos/video_nr1.mp4" type="video/mp4">
-      Your browser does not support the video tag.
     </video>
 
-2. Example Video 2
+2. [Example Video 2](example_videos/video_nr2.mp4)
     <video width="320" height="240" controls>
       <source src="example_videos/video_nr2.mp4" type="video/mp4">
-      Your browser does not support the video tag.
     </video>
 ## License
 
