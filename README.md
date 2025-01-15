@@ -64,11 +64,15 @@ An AI scheduling agent using OpenAI Swarm that schedules meetings and can also s
 
 ## Example Videos
 
-## Example Videos
+1. [Example Video 1](example_videos/video_nr1.mp4)
+    <video width="320" height="240" controls>
+      <source src="example_videos/video_nr1.mp4" type="video/mp4">
+    </video>
 
-1. [Example Video 1](https://github.com/user-attachments/assets/cd0226e2-7479-4102-aea0-57c22ca47884/video_nr1.mp4)
-
-2. [Example Video 2](https://github.com/user-attachments/assets/cd0226e2-7479-4102-aea0-57c22ca47884/video_nr2.mp4)
+2. [Example Video 2](example_videos/video_nr2.mp4)
+    <video width="320" height="240" controls>
+      <source src="example_videos/video_nr2.mp4" type="video/mp4">
+    </video>
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
