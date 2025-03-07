@@ -12,7 +12,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Expose the application port (if needed)
-EXPOSE 8000
+EXPOSE 7860
+ENV GRADIO_SERVER_NAME="0.0.0.0"
 
 # Define the default command to run the applicationp
 CMD ["python", "app.py"]
